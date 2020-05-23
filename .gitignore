@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.cache
+*.md-e
+
+node_modules/
